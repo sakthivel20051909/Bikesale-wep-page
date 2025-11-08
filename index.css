@@ -1,0 +1,92 @@
+*{
+ padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+
+    background-image: url(img/pictures_originals_2019Motocycles___Suzuki_Bikes_Motorcycle_Suzuki_GSX-S1000S_Katana__2019_on_the_background_of_the_wall_135646_.jpg);
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.132);
+    padding: 30px;
+    margin-top: 3px;
+    
+
+}
+h2,ul,li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: medium;
+    letter-spacing: 1px;
+    padding: 3px;
+}
+.header{
+    color:orangered; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 3em;
+    letter-spacing: 1.5px;
+}
+.header span{
+    color: black;
+}
+ul{
+    margin-left: 41%;
+    
+}
+li{
+    margin: 30px;
+    cursor: pointer;
+
+}
+a:hover{
+
+    background-color: rgb(239, 105, 10); 
+    color: black;
+    border-radius: 10px;
+
+    
+}
+
+.best{
+margin-top: 20px;
+font-size: 3.5em;
+margin-left: 7%;
+color: bisque;
+}
+.one{
+    margin-top: 15%;
+    margin-left: 7%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+br{
+    padding: 10px;
+}
+.you{
+margin-top: 20px;
+font-size: 3.5em;
+color: bisque;
+
+}
+ .h3{
+    display: inline-block;
+    
+    margin-left: 10%;
+    margin-top: 20px;
+    background-color:rgb(239, 105, 10); 
+    color: black;
+    font-size: 1.5em;
+    
+    border-radius: 1em;
+    padding: 10px;
+    cursor: pointer;
+    
+}
